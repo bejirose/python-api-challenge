@@ -1,6 +1,6 @@
 # Part I: Weather Analysis using Python
 
-###Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, used a simple Python library, the OpenWeatherMap API, and created a representative model of weather across world cities.
+- Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, used a simple Python library, the OpenWeatherMap API, and created a representative model of weather across world cities.
 - Randomly selected at least 500 unique (non-repeat) cities based on latitude and longitude.
 - Performed a weather check on each of the cities using a series of successive API calls.
 - Includeed a print log of each city as it's being processed with the city number and city name.
